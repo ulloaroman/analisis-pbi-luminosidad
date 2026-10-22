@@ -1,4 +1,4 @@
-#Econofísica Orbital: Evaluando la Riqueza Global a través de Emisiones Lumínicas Nocturnas.
+##Econofísica Orbital: Evaluando la Riqueza Global a través de Emisiones Lumínicas Nocturnas.
 
 ## Objetivo del Proyecto
 Evaluación de la luminosidad nocturna satelital como métrica alternativa para validar el crecimiento económico. El objetivo es detectar posibles distorsiones o manipulaciones en el PBI oficial mediante el cruce de datos espaciales y variables macroeconómicas.
